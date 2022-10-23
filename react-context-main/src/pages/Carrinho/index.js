@@ -13,9 +13,9 @@ function Carrinho() {
     carrinho,
     quantidadeCarrinho,
     comprar,
-    valorTotal = 0
+    valorTotal = 10
   } = useCarrinhoContext();
-  const { saldo = 0 } = useContext(UsuarioContext);
+  const { saldo = 10 } = useContext(UsuarioContext);
   const {
     formaPagamento,
     mudarFormaPagamento,

@@ -5,10 +5,11 @@
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
+  color:aliceblue;
 }
 
 html, body {
-  background-color: red;
+  background-color: rgb(238, 34, 34);
   margin: 0;
   padding: 0;
 }
